@@ -6,7 +6,7 @@ Author: Bernhard Baier BB 8===8
 Desc: Weather Data Generator code for CBA. Create a toy simulation of the environment:
 
 # Variables Affecting Weather
-atmosphere
+..* atmosphere
 topography
 geography
 oceanography
