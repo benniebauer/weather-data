@@ -1,9 +1,9 @@
 # weather-data
-Weather Data Generator
+## Weather Data Generator
 
-Author: Bernhard Baier BB 8===8
+**Author:** Bernhard Baier BB 8===8
 
-Desc: Weather Data Generator code for CBA. Create a toy simulation of the environment:
+**Desc:** Weather Data Generator code for CBA. Create a toy simulation of the environment:
 
 ## Variables Affecting Weather
 - atmosphere
