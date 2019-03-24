@@ -26,3 +26,6 @@ measurements at various:
 - Temperature 
 - Pressure 
 - Humidity
+
+### Data Sources
+- **Locations**: https://www.australiantownslist.com/ - au-towns.csv
