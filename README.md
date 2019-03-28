@@ -15,12 +15,12 @@ that evolves over time.
 
 ## Inputs 
 measurements at various:
-- locations
-- times
+- locations: Data sourced from file cities_data.csv
+- times: Random incrementatal times. Max increment found in App.config
 
 ## Outputs
 - Location 
-- Position 
+- Position (comma separate triple of latitude, longitude, elevation)
 - Local Time 
 - Conditions 
 - Temperature 
@@ -29,3 +29,9 @@ measurements at various:
 
 ### Data Sources
 - **Locations**: https://www.australiantownslist.com/ - au-towns.csv
+
+
+## Installation
+
+
+## Execution
