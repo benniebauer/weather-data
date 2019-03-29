@@ -32,6 +32,7 @@ measurements at various:
 
 
 ## Installation
-
+ - Ensure directory C:\Users\Public exists. If not, create it by running:
+      _mkdir C:\Users\Public_
 
 ## Execution
