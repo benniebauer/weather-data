@@ -15,10 +15,11 @@ that evolves over time.
 
 ## Inputs 
 measurements at various:
-- locations: Data sourced from file cities_data.csv
-- times: Random incrementatal times. Max increment found in App.config
+- locations: Data sourced from file _cities_data.csv_.
+- times: Random incrementatal times. Max increment found in config file _App.config_.
 
 ## Outputs
+A single file _C:\Users\Public\weather_report_YYYYmmdd_hhMMss.txt_ containing a list of:
 - Location 
 - Position (comma separate triple of latitude, longitude, elevation)
 - Local Time 
@@ -34,9 +35,9 @@ measurements at various:
 ## Installation
  - Ensure directory C:\Users\Public exists. 
  - If not, create it by running: _mkdir C:\Users\Public_
-      
- - Dowload the source code as a zip file _weather-data-master.zip_
- - Unzip the source code to a folder on the C: drive of the local workstation <root_dir>
+ - Download input data file _cities_data.csv_ to _C:\Users\Public\cities_data.csv_.
+ - Download the source code as a zip file _weather-data-master.zip_
+ - Unzip the source code to a folder on the C: drive of the local workstation _<root_dir>_.
  
 ## Execution
  - Go to _<root_dir>\weather-data-master\WeatherSimulation\ConsoleApp1\bin\Debug_.
