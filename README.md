@@ -32,7 +32,14 @@ measurements at various:
 
 
 ## Installation
- - Ensure directory C:\Users\Public exists. If not, create it by running:
-      _mkdir C:\Users\Public_
-
+ - Ensure directory C:\Users\Public exists. 
+ - If not, create it by running: _mkdir C:\Users\Public_
+      
+ - Dowload the source code as a zip file _weather-data-master.zip_
+ - Unzip the source code to a folder on the C: drive of the local workstation <root_dir>
+ 
 ## Execution
+ - Go to _<root_dir>\weather-data-master\WeatherSimulation\ConsoleApp1\bin\Debug_.
+ - Double click _WeatherSimulation.exe_ to run the program.
+ - Output file will be _C:\Users\Public\weather_report_YYYYmmdd_hhMMss.txt_.
+ 
