@@ -1,0 +1,36 @@
+ID,Name,Urban area,State code,State,Postcode,Type,Latitude,Longitude,Population,Median income,Elevation,Area (km2),Local government area,Time zone
+10106,North Sydney,Sydney,NSW,New South Wales,2060,Suburb,-33.83827,151.20648,7705,68744,78,1.471,North Sydney (Area),Australia/Sydney
+12661,Sydney,,NSW,New South Wales,2000,Major urban locality,-33.86714,151.20711,17252,35412,58,2.940,Sydney (City),Australia/Sydney
+12662,Sydney Olympic Park,Sydney,NSW,New South Wales,2127,Suburb,-33.84790,151.06667,1736,45968,24,6.629,Parramatta (City),Australia/Sydney
+4250,East Melbourne,Melbourne,VIC,Victoria,3002,Suburb,-37.81664,144.98781,4964,69732,31,1.856,Melbourne (City),Australia/Melbourne
+8413,Melbourne,,VIC,Victoria,3000,Major urban locality,-37.81334,144.97220,47285,27664,45,6.505,Melbourne (City),Australia/Melbourne
+10082,North Melbourne,Melbourne,VIC,Victoria,3051,Suburb,-37.80289,144.94816,14940,30472,33,2.362,Melbourne (City),Australia/Melbourne
+10989,Port Melbourne,Melbourne,VIC,Victoria,3207,Suburb,-37.83858,144.94236,16175,63596,6,9.570,Port Phillip (City),Australia/Melbourne
+12181,South Melbourne,Melbourne,VIC,Victoria,3205,Suburb,-37.83024,144.95930,10920,54548,14,2.190,Port Phillip (City),Australia/Melbourne
+14319,West Melbourne,Melbourne,VIC,Victoria,3003,Suburb,-37.81014,144.95000,5515,44304,22,6.582,Melbourne (City),Australia/Melbourne
+1767,Brisbane,,QLD,Queensland,4000,Major urban locality,-27.46901,153.02481,9460,36816,19,2.074,Brisbane (City),Australia/Brisbane
+1768,Brisbane Grove,,NSW,New South Wales,2580,Rural locality,-34.78669,149.70284,131,34112,640,16.723,Goulburn Mulwaree (Area),Australia/Sydney
+4208,East Brisbane,Brisbane,QLD,Queensland,4169,Suburb,-27.47965,153.04598,5934,44408,15,1.879,Brisbane (City),Australia/Brisbane
+10994,Port Of Brisbane,Brisbane,QLD,Queensland,4178,Suburb,-27.38350,153.16791,0,0,4,10.975,Brisbane (City),Australia/Brisbane
+12121,South Brisbane,Brisbane,QLD,Queensland,4101,Suburb,-27.47449,153.01739,7196,38688,12,1.980,Brisbane (City),Australia/Brisbane
+4259,East Perth,Perth,WA,Western Australia,6004,Suburb,-31.95843,115.87187,10596,51584,20,3.205,Perth (City),Australia/Perth
+10090,North Perth,Perth,WA,Western Australia,6006,Suburb,-31.93172,115.85684,8744,49036,39,3.067,Vincent (City),Australia/Perth
+10712,Perth,,TAS,Tasmania,7300,Urban locality,-41.57644,147.17400,2965,32656,169,72.202,Northern Midlands (Municipality),Australia/Hobart
+10713,Perth,,WA,Western Australia,6000,Major urban locality,-31.95540,115.85859,11425,49348,47,4.563,Perth (City),Australia/Perth
+12193,South Perth,Perth,WA,Western Australia,6151,Suburb,-31.98079,115.86283,12053,51792,15,5.177,South Perth (City),Australia/Perth
+14331,West Perth,Perth,WA,Western Australia,6005,Suburb,-31.95056,115.84384,5608,54340,56,2.190,Perth (City),Australia/Perth
+2369,Canberra,,ACT,Australian Capital Territory,2601,Major urban locality,-35.28204,149.12858,4276,25792,582,1.431,Unincorporated,Australia/Sydney
+49,Adelaide,,SA,South Australia,5000,Major urban locality,-34.92577,138.59973,15115,24648,75,10.482,Adelaide (City),Australia/Adelaide
+50,Adelaide Lead,,VIC,Victoria,3465,Rural locality,-37.07467,143.67736,81,28912,235,38.503,Central Goldfields (Shire),Australia/Melbourne
+51,Adelaide Park,,QLD,Queensland,4703,Rural locality,-23.11468,150.69673,424,28600,63,24.139,Livingstone (Shire),Australia/Brisbane
+52,Adelaide River,,NT,Northern Territory,0846,Rural locality,-13.19095,131.13760,353,27404,45,146.738,Coomalie (Shire),Australia/Darwin
+9999,North Adelaide,Adelaide,SA,South Australia,5006,Suburb,-34.90964,138.59241,6950,40508,55,5.091,Adelaide (City),Australia/Adelaide
+10946,Port Adelaide,Adelaide,SA,South Australia,5015,Suburb,-34.84751,138.50741,1224,27300,7,4.731,Port Adelaide Enfield (City),Australia/Adelaide
+6139,Hobart,,TAS,Tasmania,7000,Major urban locality,-42.88274,147.33023,2296,31616,22,2.168,Hobart (City),Australia/Hobart
+10060,North Hobart,Hobart,TAS,Tasmania,7000,Suburb,-42.87232,147.31458,2494,37544,58,1.018,Hobart (City),Australia/Hobart
+12158,South Hobart,Hobart,TAS,Tasmania,7004,Suburb,-42.89259,147.31611,5313,35880,58,9.125,Hobart (City),Australia/Hobart
+14299,West Hobart,Hobart,TAS,Tasmania,7000,Suburb,-42.88371,147.31491,5953,42484,103,4.069,Hobart (City),Australia/Hobart
+2696,Charles Darwin,Darwin,NT,Northern Territory,0822,Suburb,-12.43239,130.87351,0,0,17,9.753,Unincorporated,Australia/Darwin
+3724,Darwin,,NT,Northern Territory,0800,Major urban locality,-12.46133,130.84190,6464,62036,32,3.173,Darwin (City),Australia/Darwin
+3725,Darwin River,,NT,Northern Territory,0841,Rural locality,-12.81930,130.96974,696,44928,94,142.206,Litchfield (Municipality),Australia/Darwin
+3726,Darwin River Dam,,NT,Northern Territory,0822,Rural locality,-12.87389,131.01625,5,12948,47,264.861,Coomalie (Shire),Australia/Darwin
